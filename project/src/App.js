@@ -2,7 +2,11 @@ import './App.css';
 
 function App() {
   return (
-    <h1>HEllo</h1>
+    <div>
+      <h2>
+        what are you doing
+      </h2>
+    </div>
   );
 }
 
